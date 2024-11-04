@@ -1,8 +1,8 @@
 # Building Modern Data Applications Using Databricks Lakehouse
 
-<a href="https://www.packtpub.com/en-us/product/building-modern-data-applications-using-databricks-lakehouse-9781804612873"><img src="https://content.packt.com/B22011/cover_image.jpg" alt="no-image" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/building-modern-data-applications-using-databricks-lakehouse-9781801073233"><img src="https://content.packt.com/B22011/cover_image.jpg" alt="no-image" height="256px" align="right"></a>
 
-This is the code repository for [Building Modern Data Applications Using Databricks Lakehouse](https://www.packtpub.com/en-us/product/building-modern-data-applications-using-databricks-lakehouse-9781804612873), published by Packt.
+This is the code repository for [Building Modern Data Applications Using Databricks Lakehouse](https://www.packtpub.com/en-us/product/building-modern-data-applications-using-databricks-lakehouse-9781801073233), published by Packt.
 
 **Develop, optimize, and monitor data pipelines on Databricks**
 
