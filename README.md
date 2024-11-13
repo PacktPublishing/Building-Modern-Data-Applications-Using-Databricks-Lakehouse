@@ -18,6 +18,9 @@ This book covers the following exciting features:
 * Automate continuous data pipeline deployment by integrating Git with build tools such as Terraform and Databricks Asset Bundles
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Building-Modern-Applications-Databricks-Lakehouse/dp/1801073236/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.lgIecM0Ee0JST_roP0tVisdsDureV0zEHPilTJWeN50.92-jnQE1HVeLCm04AGkW20I1lWkPIHEdggtpMma0_oM&qid=1729572915&sr=8-1) today!
+
+## Disclaimer: Educational Purposes Only
+This book and the associated code are intended solely for educational purposes. The examples and pipelines demonstrated are not to be used in production environments without obtaining the necessary licenses from Databricks, Inc., and signing a Master Cloud Services Agreement (MCSA) with Databricks for production use of Databricks Services, including the 'dbldatagen' library. Refer to the license here: [License](https://github.com/databrickslabs/dbldatagen/blob/master/LICENSE).
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
